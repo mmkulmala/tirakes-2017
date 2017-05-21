@@ -1,0 +1,9 @@
+/Users/marnokulmala/Documents/tira/ProblemSetD2/ProblemSetD2/bin/Debug/netcoreapp1.1/ProblemSetD2.deps.json
+/Users/marnokulmala/Documents/tira/ProblemSetD2/ProblemSetD2/bin/Debug/netcoreapp1.1/ProblemSetD2.runtimeconfig.json
+/Users/marnokulmala/Documents/tira/ProblemSetD2/ProblemSetD2/bin/Debug/netcoreapp1.1/ProblemSetD2.runtimeconfig.dev.json
+/Users/marnokulmala/Documents/tira/ProblemSetD2/ProblemSetD2/bin/Debug/netcoreapp1.1/ProblemSetD2.dll
+/Users/marnokulmala/Documents/tira/ProblemSetD2/ProblemSetD2/bin/Debug/netcoreapp1.1/ProblemSetD2.pdb
+/Users/marnokulmala/Documents/tira/ProblemSetD2/ProblemSetD2/obj/Debug/netcoreapp1.1/ProblemSetD2.csprojResolveAssemblyReference.cache
+/Users/marnokulmala/Documents/tira/ProblemSetD2/ProblemSetD2/obj/Debug/netcoreapp1.1/ProblemSetD2.AssemblyInfo.cs
+/Users/marnokulmala/Documents/tira/ProblemSetD2/ProblemSetD2/obj/Debug/netcoreapp1.1/ProblemSetD2.dll
+/Users/marnokulmala/Documents/tira/ProblemSetD2/ProblemSetD2/obj/Debug/netcoreapp1.1/ProblemSetD2.pdb
