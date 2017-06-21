@@ -1,0 +1,8 @@
+/home/phz/workspace/mymsort/bin/Debug/netcoreapp1.1/mymsort.deps.json
+/home/phz/workspace/mymsort/bin/Debug/netcoreapp1.1/mymsort.runtimeconfig.json
+/home/phz/workspace/mymsort/bin/Debug/netcoreapp1.1/mymsort.runtimeconfig.dev.json
+/home/phz/workspace/mymsort/obj/Debug/netcoreapp1.1/mymsort.AssemblyInfo.cs
+/home/phz/workspace/mymsort/bin/Debug/netcoreapp1.1/mymsort.dll
+/home/phz/workspace/mymsort/bin/Debug/netcoreapp1.1/mymsort.pdb
+/home/phz/workspace/mymsort/obj/Debug/netcoreapp1.1/mymsort.dll
+/home/phz/workspace/mymsort/obj/Debug/netcoreapp1.1/mymsort.pdb
