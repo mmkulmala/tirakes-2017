@@ -1,0 +1,28 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/marnokulmala/Documents/koulu/tira/tirakes-2017/ProblemSet2S1/ProblemSet2S1/ProblemSet2S1.csproj",
+    "projectName": "ProblemSet2S1",
+    "projectPath": "/Users/marnokulmala/Documents/koulu/tira/tirakes-2017/ProblemSet2S1/ProblemSet2S1/ProblemSet2S1.csproj",
+    "outputPath": "/Users/marnokulmala/Documents/koulu/tira/tirakes-2017/ProblemSet2S1/ProblemSet2S1/obj/",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netcoreapp1.1"
+    ],
+    "frameworks": {
+      "netcoreapp1.1": {
+        "projectReferences": {}
+      }
+    }
+  },
+  "frameworks": {
+    "netcoreapp1.1": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "target": "Package",
+          "version": "1.1.1"
+        }
+      }
+    }
+  }
+}

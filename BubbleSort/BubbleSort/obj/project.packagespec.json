@@ -1,0 +1,28 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/marnokulmala/Documents/koulu/tira/tirakes-2017/BubbleSort/BubbleSort/BubbleSort.csproj",
+    "projectName": "BubbleSort",
+    "projectPath": "/Users/marnokulmala/Documents/koulu/tira/tirakes-2017/BubbleSort/BubbleSort/BubbleSort.csproj",
+    "outputPath": "/Users/marnokulmala/Documents/koulu/tira/tirakes-2017/BubbleSort/BubbleSort/obj/",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netcoreapp1.1"
+    ],
+    "frameworks": {
+      "netcoreapp1.1": {
+        "projectReferences": {}
+      }
+    }
+  },
+  "frameworks": {
+    "netcoreapp1.1": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "target": "Package",
+          "version": "1.1.1"
+        }
+      }
+    }
+  }
+}

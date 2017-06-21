@@ -1,0 +1,9 @@
+/Users/marnokulmala/Documents/koulu/tira/tirakes-2017/BubbleSort/BubbleSort/bin/Debug/netcoreapp1.1/BubbleSort.deps.json
+/Users/marnokulmala/Documents/koulu/tira/tirakes-2017/BubbleSort/BubbleSort/bin/Debug/netcoreapp1.1/BubbleSort.runtimeconfig.json
+/Users/marnokulmala/Documents/koulu/tira/tirakes-2017/BubbleSort/BubbleSort/bin/Debug/netcoreapp1.1/BubbleSort.runtimeconfig.dev.json
+/Users/marnokulmala/Documents/koulu/tira/tirakes-2017/BubbleSort/BubbleSort/bin/Debug/netcoreapp1.1/BubbleSort.dll
+/Users/marnokulmala/Documents/koulu/tira/tirakes-2017/BubbleSort/BubbleSort/bin/Debug/netcoreapp1.1//BubbleSort.pdb
+/Users/marnokulmala/Documents/koulu/tira/tirakes-2017/BubbleSort/BubbleSort/obj/Debug/netcoreapp1.1/BubbleSort.csprojResolveAssemblyReference.cache
+/Users/marnokulmala/Documents/koulu/tira/tirakes-2017/BubbleSort/BubbleSort/obj/Debug/netcoreapp1.1/BubbleSort.AssemblyInfo.cs
+/Users/marnokulmala/Documents/koulu/tira/tirakes-2017/BubbleSort/BubbleSort/obj/Debug/netcoreapp1.1/BubbleSort.dll
+/Users/marnokulmala/Documents/koulu/tira/tirakes-2017/BubbleSort/BubbleSort/obj/Debug/netcoreapp1.1/BubbleSort.pdb

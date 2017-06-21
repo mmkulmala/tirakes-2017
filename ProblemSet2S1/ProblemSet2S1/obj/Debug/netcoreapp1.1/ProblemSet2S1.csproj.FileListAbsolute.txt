@@ -1,0 +1,9 @@
+/Users/marnokulmala/Documents/koulu/tira/tirakes-2017/ProblemSet2S1/ProblemSet2S1/bin/Debug/netcoreapp1.1/ProblemSet2S1.deps.json
+/Users/marnokulmala/Documents/koulu/tira/tirakes-2017/ProblemSet2S1/ProblemSet2S1/bin/Debug/netcoreapp1.1/ProblemSet2S1.runtimeconfig.json
+/Users/marnokulmala/Documents/koulu/tira/tirakes-2017/ProblemSet2S1/ProblemSet2S1/bin/Debug/netcoreapp1.1/ProblemSet2S1.runtimeconfig.dev.json
+/Users/marnokulmala/Documents/koulu/tira/tirakes-2017/ProblemSet2S1/ProblemSet2S1/bin/Debug/netcoreapp1.1/ProblemSet2S1.dll
+/Users/marnokulmala/Documents/koulu/tira/tirakes-2017/ProblemSet2S1/ProblemSet2S1/bin/Debug/netcoreapp1.1//ProblemSet2S1.pdb
+/Users/marnokulmala/Documents/koulu/tira/tirakes-2017/ProblemSet2S1/ProblemSet2S1/obj/Debug/netcoreapp1.1/ProblemSet2S1.csprojResolveAssemblyReference.cache
+/Users/marnokulmala/Documents/koulu/tira/tirakes-2017/ProblemSet2S1/ProblemSet2S1/obj/Debug/netcoreapp1.1/ProblemSet2S1.AssemblyInfo.cs
+/Users/marnokulmala/Documents/koulu/tira/tirakes-2017/ProblemSet2S1/ProblemSet2S1/obj/Debug/netcoreapp1.1/ProblemSet2S1.dll
+/Users/marnokulmala/Documents/koulu/tira/tirakes-2017/ProblemSet2S1/ProblemSet2S1/obj/Debug/netcoreapp1.1/ProblemSet2S1.pdb
