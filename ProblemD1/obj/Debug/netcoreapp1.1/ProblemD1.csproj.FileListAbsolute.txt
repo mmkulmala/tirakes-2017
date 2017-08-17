@@ -7,3 +7,12 @@
 /Users/marnokulmala/Documents/tira/ProblemD1/ProblemD1/obj/Debug/netcoreapp1.1/ProblemD1.AssemblyInfo.cs
 /Users/marnokulmala/Documents/tira/ProblemD1/ProblemD1/obj/Debug/netcoreapp1.1/ProblemD1.dll
 /Users/marnokulmala/Documents/tira/ProblemD1/ProblemD1/obj/Debug/netcoreapp1.1/ProblemD1.pdb
+/Users/marnokulmala/Documents/koulu/tira/tirakes-2017/ProblemD1/bin/Debug/netcoreapp1.1/ProblemD1.deps.json
+/Users/marnokulmala/Documents/koulu/tira/tirakes-2017/ProblemD1/bin/Debug/netcoreapp1.1/ProblemD1.runtimeconfig.json
+/Users/marnokulmala/Documents/koulu/tira/tirakes-2017/ProblemD1/bin/Debug/netcoreapp1.1/ProblemD1.runtimeconfig.dev.json
+/Users/marnokulmala/Documents/koulu/tira/tirakes-2017/ProblemD1/bin/Debug/netcoreapp1.1/ProblemD1.dll
+/Users/marnokulmala/Documents/koulu/tira/tirakes-2017/ProblemD1/bin/Debug/netcoreapp1.1/ProblemD1.pdb
+/Users/marnokulmala/Documents/koulu/tira/tirakes-2017/ProblemD1/obj/Debug/netcoreapp1.1/ProblemD1.csprojResolveAssemblyReference.cache
+/Users/marnokulmala/Documents/koulu/tira/tirakes-2017/ProblemD1/obj/Debug/netcoreapp1.1/ProblemD1.AssemblyInfo.cs
+/Users/marnokulmala/Documents/koulu/tira/tirakes-2017/ProblemD1/obj/Debug/netcoreapp1.1/ProblemD1.dll
+/Users/marnokulmala/Documents/koulu/tira/tirakes-2017/ProblemD1/obj/Debug/netcoreapp1.1/ProblemD1.pdb

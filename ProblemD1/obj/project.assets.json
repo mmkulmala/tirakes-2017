@@ -7080,14 +7080,17 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/marnokulmala/Documents/tira/ProblemD1/ProblemD1/ProblemD1.csproj",
+      "projectUniqueName": "/Users/marnokulmala/Documents/koulu/tira/tirakes-2017/ProblemD1/ProblemD1.csproj",
       "projectName": "ProblemD1",
-      "projectPath": "/Users/marnokulmala/Documents/tira/ProblemD1/ProblemD1/ProblemD1.csproj",
-      "outputPath": "/Users/marnokulmala/Documents/tira/ProblemD1/ProblemD1/obj/",
+      "projectPath": "/Users/marnokulmala/Documents/koulu/tira/tirakes-2017/ProblemD1/ProblemD1.csproj",
+      "outputPath": "/Users/marnokulmala/Documents/koulu/tira/tirakes-2017/ProblemD1/obj/",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
       ],
+      "files": {
+        "lib/netcoreapp1.1/ProblemD1.dll": "/Users/marnokulmala/Documents/koulu/tira/tirakes-2017/ProblemD1/bin/placeholder/netcoreapp1.1/ProblemD1.dll"
+      },
       "frameworks": {
         "netcoreapp1.1": {
           "projectReferences": {}

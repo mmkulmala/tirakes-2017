@@ -6,3 +6,11 @@
 /home/phz/workspace/mymsort/bin/Debug/netcoreapp1.1/mymsort.pdb
 /home/phz/workspace/mymsort/obj/Debug/netcoreapp1.1/mymsort.dll
 /home/phz/workspace/mymsort/obj/Debug/netcoreapp1.1/mymsort.pdb
+/Users/marnokulmala/Documents/koulu/tira/tirakes-2017/mymsort/bin/Debug/netcoreapp1.1/mymsort.deps.json
+/Users/marnokulmala/Documents/koulu/tira/tirakes-2017/mymsort/bin/Debug/netcoreapp1.1/mymsort.runtimeconfig.json
+/Users/marnokulmala/Documents/koulu/tira/tirakes-2017/mymsort/bin/Debug/netcoreapp1.1/mymsort.runtimeconfig.dev.json
+/Users/marnokulmala/Documents/koulu/tira/tirakes-2017/mymsort/bin/Debug/netcoreapp1.1/mymsort.dll
+/Users/marnokulmala/Documents/koulu/tira/tirakes-2017/mymsort/bin/Debug/netcoreapp1.1/mymsort.pdb
+/Users/marnokulmala/Documents/koulu/tira/tirakes-2017/mymsort/obj/Debug/netcoreapp1.1/mymsort.AssemblyInfo.cs
+/Users/marnokulmala/Documents/koulu/tira/tirakes-2017/mymsort/obj/Debug/netcoreapp1.1/mymsort.dll
+/Users/marnokulmala/Documents/koulu/tira/tirakes-2017/mymsort/obj/Debug/netcoreapp1.1/mymsort.pdb
