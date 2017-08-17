@@ -1,0 +1,10 @@
+/Users/marnokulmala/Documents/koulu/tira/tirakes-2017/MyDjikstra/bin/Debug/netcoreapp2.0/MyDjikstra.deps.json
+/Users/marnokulmala/Documents/koulu/tira/tirakes-2017/MyDjikstra/bin/Debug/netcoreapp2.0/MyDjikstra.runtimeconfig.json
+/Users/marnokulmala/Documents/koulu/tira/tirakes-2017/MyDjikstra/bin/Debug/netcoreapp2.0/MyDjikstra.runtimeconfig.dev.json
+/Users/marnokulmala/Documents/koulu/tira/tirakes-2017/MyDjikstra/bin/Debug/netcoreapp2.0/MyDjikstra.dll
+/Users/marnokulmala/Documents/koulu/tira/tirakes-2017/MyDjikstra/bin/Debug/netcoreapp2.0/MyDjikstra.pdb
+/Users/marnokulmala/Documents/koulu/tira/tirakes-2017/MyDjikstra/obj/Debug/netcoreapp2.0/MyDjikstra.csproj.CoreCompileInputs.cache
+/Users/marnokulmala/Documents/koulu/tira/tirakes-2017/MyDjikstra/obj/Debug/netcoreapp2.0/MyDjikstra.AssemblyInfoInputs.cache
+/Users/marnokulmala/Documents/koulu/tira/tirakes-2017/MyDjikstra/obj/Debug/netcoreapp2.0/MyDjikstra.AssemblyInfo.cs
+/Users/marnokulmala/Documents/koulu/tira/tirakes-2017/MyDjikstra/obj/Debug/netcoreapp2.0/MyDjikstra.dll
+/Users/marnokulmala/Documents/koulu/tira/tirakes-2017/MyDjikstra/obj/Debug/netcoreapp2.0/MyDjikstra.pdb
